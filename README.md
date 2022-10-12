@@ -1,15 +1,14 @@
 # Flutter - Movie Listing App
 
 #A Static Movie Listing Ui page 
-## Screenshots 
 
 
-![](https://github.com/palak2665/Movie_Listing/blob/main/assets/images/Screenshot_1665573265.png) | ![](https://github.com/palak2665/Movie_Listing/blob/main/assets/images/Screenshot_1665589875.png) | ![](https://github.com/palak2665/Movie_Listing/blob/main/assets/images/Screenshot_1665589881.png)
+## ScreenShots
 
-![](https://github.com/palak2665/Movie_Listing/blob/main/assets/images/Screenshot_1665589891.png) | ![]
-
-
-
+<img src="https://github.com/palak2665/Movie_Listing/blob/main/assets/images/Screenshot_1665573265.png" width ="33%">
+<img src="https://github.com/palak2665/Movie_Listing/blob/main/assets/images/Screenshot_1665589875.png" width ="33%">
+<img src="https://github.com/palak2665/Movie_Listing/blob/main/assets/images/Screenshot_1665589881.png" width ="33%">
+<img src="https://github.com/palak2665/Movie_Listing/blob/main/assets/images/Screenshot_1665589891.png" width ="33%">
 
 <b>What does Flutter do?</b>
 
