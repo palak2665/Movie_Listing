@@ -9,8 +9,9 @@
 <img src="https://github.com/palak2665/Movie_Listing/blob/main/assets/images/Screenshot_1665589875.png?raw=true" width ="30%">
 <img src="https://github.com/palak2665/Movie_Listing/blob/main/assets/images/Screenshot_1665589881.png?raw=true" width ="30%"></p>
 <p align="center"><img src="https://github.com/palak2665/Movie_Listing/blob/main/assets/images/Screenshot_1665589891.png?raw=true" width ="30%">
+<img src="https://github.com/palak2665/Movie_Listing/blob/main/assets/images/Screenshot_1665589900.png?raw=true" width ="30%">
 <img src="https://github.com/palak2665/Movie_Listing/blob/main/assets/images/Screenshot_1665589891.png?raw=true" width ="30%">
-<img src="https://github.com/palak2665/Movie_Listing/blob/main/assets/images/Screenshot_1665589900.png?raw=true" width ="30%"></p>
+</p>
 # Movie Listing
 
 A new Flutter project.
