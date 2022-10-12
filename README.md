@@ -4,10 +4,10 @@
 
 
 ## ScreenShots
-<p>
+<p align="center>
 <img src="https://github.com/palak2665/Movie_Listing/blob/main/assets/images/Screenshot_1665573265.png?raw=true" width ="33%">
 <img src="https://github.com/palak2665/Movie_Listing/blob/main/assets/images/Screenshot_1665589875.png?raw=true" width ="33%"></p>
-<p><img src="https://github.com/palak2665/Movie_Listing/blob/main/assets/images/Screenshot_1665589881.png?raw=true" width ="33%">
+<p align="center"><img src="https://github.com/palak2665/Movie_Listing/blob/main/assets/images/Screenshot_1665589881.png?raw=true" width ="33%">
 <img src="https://github.com/palak2665/Movie_Listing/blob/main/assets/images/Screenshot_1665589891.png?raw=true" width ="33%"></p>
 # Movie Listing
 
